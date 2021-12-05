@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  cold call
 //
-//  Created by لمياء فالح الدوسري on 01/05/1443 AH.
 //
 
 import UIKit
